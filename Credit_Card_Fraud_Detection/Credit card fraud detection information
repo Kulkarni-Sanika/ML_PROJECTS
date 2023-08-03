@@ -1,0 +1,2 @@
+This project aims to detect fraudulent credit card transactions using machine learning.It involves data preprocessing, feature engineering, and training various classifiers. 
+ The model achieves high accuracy in identifying fraudulent transactions, ensuring enhanced security and minimizing financial losses for credit card companies and users.
