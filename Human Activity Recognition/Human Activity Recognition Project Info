@@ -1,2 +1,0 @@
-The "Human Activity Recognition with Smartphones" project aimed to develop a machine learning model that accurately classifies human activities based on smartphone sensor data. 
-We utilized various libraries like pandas for data manipulation, sklearn for model training and evaluation, and seaborn/matplotlib for data visualization.
